@@ -17,4 +17,4 @@ Common tools include OpenWeatherMap or Weatherbit APIs (for real-time weather da
 Weather dashboards can be used in travel planning apps, agriculture monitoring, logistics and supply chain management, emergency response systems, and personal weather tracking on mobile or web platforms.
 
 # OUTPUT
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8a4d5121-e5e6-45fb-b5b0-05c421e3e580" /
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/baf68668-c766-4043-ad8a-15f93a2b9fe8" />
